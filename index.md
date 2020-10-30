@@ -38,4 +38,4 @@ I am studying computer engineering at PNU varamin University.
 - Quera Profile: <a href="https://quera.ir/profile/fatememosaee">My Profile</a>
 
   
-  Persian Resume: <a href="https://fatememosaee.github.io/Resume.fa/"> Resume </a>
+  Persian Resume: <a href="fatememosaee.github.io/resume.fa/"> Resume </a>
