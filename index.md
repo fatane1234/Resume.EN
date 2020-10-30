@@ -17,7 +17,7 @@ I am studying computer engineering at PNU varamin University.
 
 + illustration
 
-+HTML
++ HTML
 
 + ICDL1
 
