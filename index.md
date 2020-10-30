@@ -1,13 +1,39 @@
 <img src="https://avatars2.githubusercontent.com/u/72305540?s=400&u=b1bac51ab80cdc6a08775674a4198772a91eaf70&v=4"/>
 ### About Me
-My name is Fatemeh Mosaee. I was born in 1999 in Tehran. I have a degree in mathematics and I am a computer engineering student at Payame Noor University in Varamin.
+
+I am fateme mosaee
+I am studying computer engineering at PNU varamin University.
+
+### Personal Information
+
+- First Name: fateme
+- Last Name: mosaee
+- Birth Date: 1999/10/14
+- Marriage Status: Single
+
 ### Skills
-. +Math
 
-.
-.
-###Contact Me
--Gmail:fatememosaee@gmail.com
-- Quera Profile: <a href="https://quera.ir/profile/fatememosaee">My Profile</a>
++ corel draw
 
-اسم من فاطمه موسایی است. من در سال 1999 در تهران متولد شدم. من دیپلم ریاضی دارم و دانشجوی مهندسی کامپیوتر دانشگاه پیام نور ورامین هستم.
++ illustration
+
++HTML
+
++ ICDL1
+
+### Languages
+
+- Persian(Advanced)
+- Azerbayjani(Mother tongue)
+- Turkish(Excellent)
+- English(Normal)
+
+
+### Licenses & Certifications
+
+- ICDL1 
+
+### Other Accounts
+  nothing
+  
+  Persian Resume: <a href=""> Resume </a>
