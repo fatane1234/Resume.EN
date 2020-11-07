@@ -34,8 +34,7 @@ I am studying computer engineering at PNU varamin University.
 - ICDL1 
 
 ### Other Accounts
- -Gmail:fatememosaee@gmail.com
+ -Gmail:<a href="https://fatememosaee@gmail.com"></a>
 - Quera Profile: <a href="https://quera.ir/profile/fatememosaee">My Profile</a>
 
-  
   Persian Resume: <a href="https://fatememosaee.github.io/Resume.fa/"> Resume </a>
