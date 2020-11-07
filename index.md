@@ -35,6 +35,9 @@ I am studying computer engineering at PNU varamin University.
 
 ### Other Accounts
 -Gmail: fatememosaee@gmail.com
+
+https://t.me/Fatememosayi23
+
 - Quera Profile: <a href="https://quera.ir/profile/fatememosaee">My Profile</a>
 
   Persian Resume: <a href="https://fatememosaee.github.io/Resume.fa/"> Resume </a>
