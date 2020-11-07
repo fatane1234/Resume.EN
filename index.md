@@ -36,7 +36,7 @@ I am studying computer engineering at PNU varamin University.
 ### Other Accounts
 -Gmail: fatememosaee@gmail.com
 
-- telegram:  <a href="https://t.me/Fatememosayi23">
+- telegram: https://t.me/Fatememosayi23
 
 - Quera Profile: <a href="https://quera.ir/profile/fatememosaee">My Profile</a>
 
